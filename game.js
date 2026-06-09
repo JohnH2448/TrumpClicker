@@ -10,6 +10,7 @@ window.addEventListener('DOMContentLoaded', () => {
   let CPS=0;
   let cashUpdate = 0;
 
+  
   // Format Number Function
   function formatNumber(num) {
     if (num >= 1e12) {
